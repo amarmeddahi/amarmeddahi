@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **recommender systems and software engineering at Thales**
 
-- 🌱 I’m currently learning **Visual Computing**
+- 🌱 I’m currently learning **Visual Computing at ENSEEIHT and University of Toulouse**
 
 - 📫 How to reach me **amar.meddahi1@gmail.com**
 
