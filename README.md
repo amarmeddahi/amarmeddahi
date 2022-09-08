@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Visual Computing**
 
+- 👨‍💻 My GitHub projects are about **deep learning, software engineering, image processing, 3D...**
+
 - 📫 How to reach me **amar.meddahi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
