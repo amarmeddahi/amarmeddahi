@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amar Meddahi</h1>
-<h3 align="center">A passionate Msc student in Computer Science and Mathematics from France</h3>
+<h3 align="center">A passionate MSc student in Computer Science and Mathematics from France</h3>
+
+- 🔭 I’m currently working on **recommender systems and software engineering at Thales**
+
+- 🌱 I’m currently learning **Visual Computing**
 
 - 📫 How to reach me **amar.meddahi1@gmail.com**
 
