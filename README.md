@@ -9,6 +9,28 @@
 
 - 📫 How to reach me **amar.meddahi1@gmail.com**
 
+
+<h3 align="left">Recently completed projects:</h3> 
+
+<br/>
+
+<p style="display:flex">
+    <a href="https://github.com/amarmeddahi/sip-gan">
+        <img width=200 src="https://github.com/amarmeddahi/sip-gan/blob/main/res/sip-gan.gif" />
+    </a>
+    <a href="https://github.com/amarmeddahi/patch-based-inpainting">
+        <img width=300 src="https://github.com/amarmeddahi/patch-based-inpainting/blob/main/res/inpainting.gif" />
+    </a>
+    <a href="https://github.com/amarmeddahi/camera-tracking">
+        <img width=340 src="https://github.com/amarmeddahi/camera-tracking/blob/main/res/camera.gif" />
+    </a>
+    </a>
+    <a href="https://github.com/amarmeddahi/narutonet">
+        <img width=340 src="https://github.com/amarmeddahi/narutonet/blob/main/res/nn.jpg" />
+    </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amarmeddahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarmeddahi" height="30" width="40" /></a>
