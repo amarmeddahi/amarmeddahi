@@ -26,7 +26,7 @@
     </a>
     </a>
     <a href="https://github.com/amarmeddahi/narutonet">
-        <img width=340 src="https://github.com/amarmeddahi/narutonet/blob/main/res/nn.jpg" />
+        <img width=350 src="https://github.com/amarmeddahi/narutonet/blob/main/res/nn.jpg" />
     </a>
 </p>
 
