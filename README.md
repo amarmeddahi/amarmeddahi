@@ -5,9 +5,9 @@
 
 - :microscope: Former **deep learning researcher** at IMT Nord Europe and **software engineering intern** at Thales
 
-- 🌱 Currently MScEng/Msc student **CS** and **Maths** at ENSEEIHT and University of Toulouse (Exepcted graduation date: Sep. 2023)
+- 🌱 Currently MScEng/Msc student in **CS** and **Maths** at ENSEEIHT and University of Toulouse (Exepcted graduation date: Sep. 2023)
 
-- 👨‍💻 My GitHub projects are about **deep learning, software engineering, image processing, 3D...**
+- 👨‍💻 My GitHub projects are about **deep learning, software engineering, image processing, 3D, network security...**
 
 - 📫 How to reach me **amar.meddahi1@gmail.com**
 
