@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amar Meddahi</h1>
 <h3 align="center">A passionate MSc student in Computer Science and Mathematics from France</h3>
 
-- 🔭 I’m currently working on **recommender systems and software engineering at Thales**
+- 🔭 Looking for end-of-study internship position for a period of 6 months starting March 2023 in the field of Machine Learning
 
-- 🌱 I’m currently learning **Visual Computing**
+- :microscope: Former **deep learning researcher** at IMT Nord Europe and **software engineering intern** at Thales
+
+- 🌱 Currently MScEng/Msc student **CS** and **Maths** at ENSEEIHT and University of Toulouse (Exepcted graduation date: Sep. 2023)
 
 - 👨‍💻 My GitHub projects are about **deep learning, software engineering, image processing, 3D...**
 
