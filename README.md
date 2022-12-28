@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Meddahi</h1>
 <h3 align="center">A passionate MSc student in Computer Science and Mathematics from France</h3>
 
-- 🔭 Looking for end-of-study internship position for a period of 6 months starting March 2023 in the field of Machine Learning
+- 🔭 Currently looking for PhD opportunities starting Fall 2023. Interested in contributing to the community through innovation in Machine Learning, Deep Learning, 2D/3D Computer Vision/Graphics, Signal/Image Processing, and Algorithm designing.
 
 - :microscope: Former **deep learning researcher** at IMT Nord Europe and **software engineering intern** at Thales
 
