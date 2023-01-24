@@ -9,7 +9,7 @@
 
 - 👨‍💻 My GitHub projects are about **deep learning, software engineering, image processing, 3D, network security...**
 
-- 📫 How to reach me **amar.meddahi1@gmail.com**
+- 📫 How to reach me **amar [DOT] meddahi1 [AT] gmail [DOT] com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
