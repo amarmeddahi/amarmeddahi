@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amar Meddahi</h1>
 <h3 align="center">MSc student in Machine Learning & Computer Vision | Passionate about leveraging deep learning for practical applications and real-world impact</h3>
 
-- 🔭 Seeking PhD/Research Eng. Opportunities in Machine Learning, Computer Vision/Graphics, and Signal/Image Processing for Fall 2023. Committed to Advancing the Field of Artificial Intelligence and Enhancing Societal Impact Through Innovative Algorithm Design.
-
+- 🔭 Committed to Advancing the Field of Artificial Intelligence and Enhancing Societal Impact Through Innovative Algorithm Design.
+- 🤝 Seeking PhD/Research Eng. Opportunities in Machine Learning, Computer Vision, and Image Processing for Fall 2023.
 - 📫 How to reach me **amar [DOT] meddahi1 [AT] gmail [DOT] com** 
 
 <h3 align="left">Project Showcase</h3> 
