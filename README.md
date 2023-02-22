@@ -10,6 +10,7 @@
 <h3 align="left">Project Showcase</h3> 
 
  - **2023 (many more to come!)**
+ 	 - [Sounds of Nature (in progress)](https://github.com/amarmeddahi/sounds-of-nature)
 	 - [Reflectance estimation using RTI data](https://github.com/amarmeddahi/reflectance-estimation)
 	 - [FixMatch Implementation](https://github.com/amarmeddahi/fix-match)
  - **2022**
